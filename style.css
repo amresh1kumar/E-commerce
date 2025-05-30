@@ -450,6 +450,9 @@
 
 .vender-list img {
    border: 1px solid #ddd;
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
 }
 
 .copy-right {
